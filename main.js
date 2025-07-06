@@ -1,0 +1,26 @@
+const videoLinks = [
+  "https://xhamster.com/videos/italian-flavor-for-barcelona-bear-xhfQt4L",
+  "https://xhamster.com/videos/they-make-e-horny-xh9ztbf",
+  "https://xhamster.com/videos/two-hot-bears-13098930",
+  "https://xhamster.com/videos/furry-fuckers-3374388",
+  "https://xhamster.com/videos/chubby-beat-orgy-xhchOBP",
+  "https://xhamster.com/videos/guys-fucking-on-a-truck-xhzILBV",
+  "https://xhamster.com/videos/fuck-my-xhTthHB",
+  "https://xhamster.com/videos/cs-muscle-hunk-t-xh3I6eo",
+  "https://xhamster.com/videos/military-bears-fun-1704468",
+  "https://xhamster.com/videos/fuck-me-sergeant-xhLvzJn",
+  "https://xhamster.com/videos/xxxl-big-daddy-the-repair-bear-713016",
+  "https://xhamster.com/videos/chubby-latino-fucks-again-xhKV3bs",
+  "https://xhamster.com/videos/hot-latin-bear-tagteamed-xhwbwEL",
+  "https://xhamster.com/videos/raw-fucking-step-daddys-7811860",
+  "https://xhamster.com/videos/raw-fucking-step-daddys-7811860", // duplicate
+  "https://xhamster.com/videos/bear-voyage-2-rock-the-boat-scene-5-7448007",
+  "https://xhamster.com/videos/bears-play-13125963",
+  "https://xhamster.com/videos/ch4nce-and-c4in-fuck-and-suck-xh1u7qi",
+  "https://xhamster.com/videos/beefy-coach-fuck-p-6499307",
+  "https://xhamster.com/videos/bear-fucks-his-boyfriend-3179757",
+  "https://xhamster.com/videos/big-ben-xhvS1aW",
+  "https://xhamster.com/videos/guest-treatment-11135474",
+  "https://xhamster.com/videos/daddy-bear-fucks-young-cub-13233355",
+  "https://xhamster.com/videos/big-bear-keep-on-2730871"
+];
